@@ -1,0 +1,15 @@
+[submodule "Oct2018_launch/spacenode"]
+	path = Oct2018_launch/spacenode
+	url = https://github.com/spacechain/SpaceNode_2018.10.git
+[submodule "Dec2019_launch/server"]
+	path = Dec2019_launch/server
+	url = https://github.com/spacechain/SpaceNode_Server_ISS.git
+[submodule "Dec2019_launch/client"]
+	path = Dec2019_launch/client
+	url = https://github.com/spacechain/SpaceNode_Client_ISS.git
+[submodule "Oct2018_launch/client"]
+	path = Oct2018_launch/client
+	url = https://github.com/spacechain/SpaceChain_Qtum.git
+[submodule "Dec2019_launch/spacenode"]
+	path = Dec2019_launch/spacenode
+	url = https://github.com/spacechain/SpaceNode_ISS.git
